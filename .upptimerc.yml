@@ -9,7 +9,7 @@ sites:
   - name: AppsServices (lean-services)
     url: https://apps.kobra.red/s1/visitas/
     headers:
-      - "User-Agent": "gilkobra"
+      - "User-Agent: gilkobra"
   - name: AppsServices (visitas)
     url: https://apps.kobra.red/s1/lean-services/
   - name: AppsServices (storage)
