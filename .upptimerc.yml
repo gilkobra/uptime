@@ -7,17 +7,10 @@ sites:
     url: https://apps.kobra.red/s1/visitas/
   - name: App Services 2
     url: https://apps.kobra.red/s1/lean-services/
+  - name: App Services 3
+    url: https://apps.kobra.red/s1/storage/
   - name: Admin
     url: admin.kobra.red
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
   
 assignees: # Users to assign downtime issues (optional)
   - gilkobra
