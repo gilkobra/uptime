@@ -7,19 +7,17 @@ sites:
   - name: Admin
     url: https://eladmin.kobra.red
   - name: AppsServices (lean-services)
-    url: https://apps.kobra.red/s1/visitas/
+    url: https://apps.kobra.red/s1/lean-services/
     headers:
       - "User-Agent: gilkobra"
   - name: AppsServices (visitas)
-    url: https://apps.kobra.red/s1/lean-services/
+    url: https://apps.kobra.red/s1/visitas/
   - name: AppsServices (storage)
     url: https://apps.kobra.red/s1/storage/
   - name: AppsServices (kobra-saldos)
     url: https://apps.kobra.red/s1/kobra-saldos/
   - name: AppsServices (gestores)
     url: https://apps.kobra.red/s1/gestores/
-  - name: Notifications
-    url: https://apps.kobra.red/s2/notifications/
   
 assignees: # Users to assign downtime issues (optional)
   - gilkobra
