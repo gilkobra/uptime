@@ -4,17 +4,17 @@
     "url": "https://eladmin.kobra.red",
     "icon": "https://icons.duckduckgo.com/ip3/eladmin.kobra.red.ico",
     "slug": "admin",
-    "status": "down",
-    "uptime": "13.40%",
-    "uptimeDay": "13.40%",
-    "uptimeWeek": "13.40%",
-    "uptimeMonth": "13.40%",
-    "uptimeYear": "13.40%",
-    "time": 361,
-    "timeDay": 361,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "status": "up",
+    "uptime": "27.11%",
+    "uptimeDay": "27.11%",
+    "uptimeWeek": "27.11%",
+    "uptimeMonth": "27.11%",
+    "uptimeYear": "27.11%",
+    "time": 339,
+    "timeDay": 339,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2024-04-24": 114
     }
@@ -24,19 +24,19 @@
     "url": "https://apps.kobra.red/s1/visitas/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-lean-services",
-    "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 46,
-    "timeDay": 46,
-    "timeWeek": 46,
-    "timeMonth": 46,
-    "timeYear": 46,
+    "status": "up",
+    "uptime": "1.51%",
+    "uptimeDay": "1.51%",
+    "uptimeWeek": "1.51%",
+    "uptimeMonth": "1.51%",
+    "uptimeYear": "1.51%",
+    "time": 193,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 24
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://apps.kobra.red/s1/lean-services/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-visitas",
-    "status": "down",
-    "uptime": "1.74%",
-    "uptimeDay": "1.74%",
-    "uptimeWeek": "1.74%",
-    "uptimeMonth": "1.74%",
-    "uptimeYear": "1.74%",
-    "time": 11,
-    "timeDay": 11,
-    "timeWeek": 11,
-    "timeMonth": 11,
-    "timeYear": 11,
+    "status": "up",
+    "uptime": "1.40%",
+    "uptimeDay": "1.40%",
+    "uptimeWeek": "1.40%",
+    "uptimeMonth": "1.40%",
+    "uptimeYear": "1.40%",
+    "time": 123,
+    "timeDay": 123,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 24
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://apps.kobra.red/s1/storage/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-storage",
-    "status": "down",
-    "uptime": "3.32%",
-    "uptimeDay": "3.32%",
-    "uptimeWeek": "3.32%",
-    "uptimeMonth": "3.32%",
-    "uptimeYear": "3.32%",
-    "time": 12,
-    "timeDay": 12,
-    "timeWeek": 12,
-    "timeMonth": 12,
-    "timeYear": 12,
+    "status": "up",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
+    "time": 19,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 19,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 24
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://apps.kobra.red/s1/kobra-saldos/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-kobra-saldos",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 12,
-    "timeDay": 12,
-    "timeWeek": 12,
-    "timeMonth": 12,
-    "timeYear": 12,
+    "status": "up",
+    "uptime": "1.05%",
+    "uptimeDay": "1.05%",
+    "uptimeWeek": "1.05%",
+    "uptimeMonth": "1.05%",
+    "uptimeYear": "1.05%",
+    "time": 19,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 19,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 24
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://apps.kobra.red/s1/gestores/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-gestores",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 12,
-    "timeDay": 12,
-    "timeWeek": 12,
-    "timeMonth": 12,
-    "timeYear": 12,
+    "status": "up",
+    "uptime": "0.96%",
+    "uptimeDay": "0.96%",
+    "uptimeWeek": "0.96%",
+    "uptimeMonth": "0.96%",
+    "uptimeYear": "0.96%",
+    "time": 20,
+    "timeDay": 20,
+    "timeWeek": 20,
+    "timeMonth": 20,
+    "timeYear": 20,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 24
     }
   },
   {
@@ -130,13 +130,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 13,
-    "timeDay": 13,
-    "timeWeek": 13,
-    "timeMonth": 13,
-    "timeYear": 13,
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-04-24": 0
+      "2024-04-24": 25
     }
   }
 ]
