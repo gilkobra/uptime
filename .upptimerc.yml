@@ -4,20 +4,20 @@ repo: uptime # The name of this repository
 user-agent: gilkobra # The user-agent, which is the name of the bot making the requests
 
 sites:
-  - name: App Services
-    url: https://apps.kobra.red/s1/visitas/
-  - name: App Services 2
-    url: https://apps.kobra.red/s1/lean-services/
-  - name: App Services 3
-    url: https://apps.kobra.red/s1/storage/
-  - name: App Services 4
-    url: https://apps.kobra.red
-  - name: App Services 5
-    url: https://visits.kobra.red
-  - name: App Services 6
-    url: https://google.com
   - name: Admin
-    url: admin.kobra.red
+    url: https://eladmin.kobra.red
+  - name: AppsServices (lean-services)
+    url: https://apps.kobra.red/s1/visitas/
+  - name: AppsServices (visitas)
+    url: https://apps.kobra.red/s1/lean-services/
+  - name: AppsServices (storage)
+    url: https://apps.kobra.red/s1/storage/
+  - name: AppsServices (kobra-saldos)
+    url: https://apps.kobra.red/s1/kobra-saldos/
+  - name: AppsServices (gestores)
+    url: https://apps.kobra.red/s1/gestores/
+  - name: Notifications
+    url: https://apps.kobra.red/s2/notifications/
   
 assignees: # Users to assign downtime issues (optional)
   - gilkobra
