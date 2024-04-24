@@ -1,7 +1,7 @@
-url: https://visits.kobra.red
-status: down
-code: 403
-responseTime: 406
-lastUpdated: 2024-04-24T02:36:14.935Z
+url: http://visits.kobra.red
+status: up
+code: 200
+responseTime: 317
+lastUpdated: 2024-04-24T02:47:23.667Z
 startTime: 2024-04-24T02:36:14.507Z
 generator: Upptime <https://github.com/upptime/upptime>

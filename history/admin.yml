@@ -1,7 +1,7 @@
 url: admin.kobra.red
-status: down
-code: 403
-responseTime: 202
-lastUpdated: 2024-04-24T02:36:18.525Z
+status: up
+code: 200
+responseTime: 201
+lastUpdated: 2024-04-24T02:47:26.168Z
 startTime: 2024-04-24T00:53:14.780Z
 generator: Upptime <https://github.com/upptime/upptime>
