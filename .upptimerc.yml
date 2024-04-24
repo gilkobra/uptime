@@ -1,6 +1,7 @@
 # Change these first
 owner: gilkobra # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+user-agent: gilkobra # The user-agent, which is the name of the bot making the requests
 
 sites:
   - name: App Services
