@@ -5,17 +5,17 @@ user-agent: gilkobra # The user-agent, which is the name of the bot making the r
 
 sites:
   - name: App Services
-    url: http://apps.kobra.red/s1/visitas/
+    url: https://apps.kobra.red/s1/visitas/
   - name: App Services 2
-    url: http://apps.kobra.red/s1/lean-services/
+    url: https://apps.kobra.red/s1/lean-services/
   - name: App Services 3
-    url: http://apps.kobra.red/s1/storage/
+    url: https://apps.kobra.red/s1/storage/
   - name: App Services 4
-    url: http://apps.kobra.red
+    url: https://apps.kobra.red
   - name: App Services 5
-    url: http://visits.kobra.red
+    url: https://visits.kobra.red
   - name: App Services 6
-    url: http://google.com
+    url: https://google.com
   - name: Admin
     url: admin.kobra.red
   
