@@ -3,8 +3,8 @@ owner: gilkobra # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: App Services
+    url: https://apps.kobra.red/s1/visitas/
   - name: Admin
     url: admin.kobra.red
   - name: Hacker News
