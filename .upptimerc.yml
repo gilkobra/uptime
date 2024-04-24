@@ -9,6 +9,8 @@ sites:
     url: https://apps.kobra.red/s1/lean-services/
   - name: App Services 3
     url: https://apps.kobra.red/s1/storage/
+  - name: App Services 4
+    url: https://apps.kobra.red
   - name: Admin
     url: admin.kobra.red
   
