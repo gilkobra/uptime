@@ -1,7 +1,7 @@
 url: https://eladmin.kobra.red
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2024-05-16T16:30:11.383Z
+status: down
+code: 502
+responseTime: 453
+lastUpdated: 2024-05-16T20:48:55.390Z
 startTime: 2024-04-24T00:53:14.780Z
 generator: Upptime <https://github.com/upptime/upptime>
