@@ -1,7 +1,7 @@
 url: https://apps.kobra.red/s1/gestores/
-status: up
-code: 200
-responseTime: 104
-lastUpdated: 2024-05-17T23:03:38.305Z
+status: down
+code: 502
+responseTime: 31
+lastUpdated: 2024-05-18T20:21:14.193Z
 startTime: 2024-04-24T03:05:18.245Z
 generator: Upptime <https://github.com/upptime/upptime>
