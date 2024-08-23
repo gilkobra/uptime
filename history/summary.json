@@ -4,19 +4,19 @@
     "url": "https://kobra.red",
     "icon": "https://icons.duckduckgo.com/ip3/kobra.red.ico",
     "slug": "sitio-publico",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 3010,
-    "timeWeek": 1385,
-    "timeMonth": 1112,
-    "timeYear": 1112,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1107,
+    "timeDay": 2354,
+    "timeWeek": 1347,
+    "timeMonth": 1107,
+    "timeYear": 1107,
     "dailyMinutesDown": {
-      "2024-08-23": 0
+      "2024-08-23": 8
     }
   },
   {
