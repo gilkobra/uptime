@@ -40,89 +40,99 @@
     "url": "https://apps.kobra.red/s1/lean-services/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-lean-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 217,
-    "timeWeek": 300,
+    "time": 344,
+    "timeDay": 247,
+    "timeWeek": 297,
     "timeMonth": 266,
-    "timeYear": 346,
-    "dailyMinutesDown": {}
+    "timeYear": 344,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "AppsServices (visitas)",
     "url": "https://apps.kobra.red/s1/visitas/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-visitas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 23,
-    "timeWeek": 89,
+    "timeDay": 33,
+    "timeWeek": 83,
     "timeMonth": 60,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "AppsServices (storage)",
     "url": "https://apps.kobra.red/s1/storage/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 24,
-    "timeWeek": 41,
+    "timeDay": 36,
+    "timeWeek": 42,
     "timeMonth": 47,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "AppsServices (kobra-saldos)",
     "url": "https://apps.kobra.red/s1/kobra-saldos/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-kobra-saldos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 25,
-    "timeWeek": 40,
-    "timeMonth": 49,
+    "timeDay": 35,
+    "timeWeek": 41,
+    "timeMonth": 48,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "AppsServices (gestores)",
     "url": "https://apps.kobra.red/s1/gestores/",
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-gestores",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 47,
-    "timeDay": 25,
+    "timeDay": 35,
     "timeWeek": 42,
     "timeMonth": 48,
     "timeYear": 47,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   }
 ]
