@@ -4,19 +4,19 @@
     "url": "https://kobra.red",
     "icon": "https://icons.duckduckgo.com/ip3/kobra.red.ico",
     "slug": "sitio-publico",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 882,
-    "timeDay": 1107,
-    "timeWeek": 1149,
-    "timeMonth": 938,
+    "timeDay": 1031,
+    "timeWeek": 1119,
+    "timeMonth": 936,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-02-12": 2
+      "2025-02-12": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://admin.kobra.red",
     "icon": "https://icons.duckduckgo.com/ip3/admin.kobra.red.ico",
     "slug": "admin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 169,
-    "timeWeek": 274,
-    "timeMonth": 290,
+    "timeDay": 274,
+    "timeWeek": 287,
+    "timeMonth": 293,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 6
     }
   },
   {
