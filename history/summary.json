@@ -4,11 +4,11 @@
     "url": "https://kobra.red",
     "icon": "https://icons.duckduckgo.com/ip3/kobra.red.ico",
     "slug": "sitio-publico",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 882,
     "timeDay": 1107,
@@ -16,7 +16,7 @@
     "timeMonth": 938,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-02-12": 7
+      "2025-02-12": 2
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://admin.kobra.red",
     "icon": "https://icons.duckduckgo.com/ip3/admin.kobra.red.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 274,
     "timeMonth": 290,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "AppsServices (lean-services)",
