@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 894,
-    "timeWeek": 1179,
-    "timeMonth": 1052,
-    "timeYear": 897,
+    "time": 898,
+    "timeDay": 1226,
+    "timeWeek": 1215,
+    "timeMonth": 1037,
+    "timeYear": 898,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 366,
-    "timeWeek": 379,
-    "timeMonth": 330,
+    "timeDay": 457,
+    "timeWeek": 377,
+    "timeMonth": 335,
     "timeYear": 332,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 386,
-    "timeDay": 106,
-    "timeWeek": 304,
-    "timeMonth": 301,
+    "timeDay": 366,
+    "timeWeek": 314,
+    "timeMonth": 281,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2024-11-04": 15
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 47,
-    "timeDay": 25,
-    "timeWeek": 69,
+    "time": 48,
+    "timeDay": 79,
+    "timeWeek": 67,
     "timeMonth": 53,
-    "timeYear": 47,
+    "timeYear": 48,
     "dailyMinutesDown": {
       "2025-01-22": 46,
       "2024-11-04": 15
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 49,
-    "timeDay": 30,
+    "time": 50,
+    "timeDay": 88,
     "timeWeek": 67,
     "timeMonth": 52,
-    "timeYear": 49,
+    "timeYear": 50,
     "dailyMinutesDown": {
       "2024-11-04": 15
     }
@@ -108,8 +108,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 49,
-    "timeDay": 30,
-    "timeWeek": 65,
+    "timeDay": 77,
+    "timeWeek": 62,
     "timeMonth": 49,
     "timeYear": 49,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 64,
-    "timeDay": 1070,
+    "timeDay": 1084,
     "timeWeek": 404,
     "timeMonth": 140,
     "timeYear": 64,
