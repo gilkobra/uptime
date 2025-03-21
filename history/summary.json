@@ -4,7 +4,7 @@
     "url": "https://kobra.red",
     "icon": "https://icons.duckduckgo.com/ip3/kobra.red.ico",
     "slug": "sitio-publico",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 971,
     "timeMonth": 1142,
     "timeYear": 921,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-21": 0
+    }
   },
   {
     "name": "Admin",
@@ -122,18 +124,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps.kobra.red.ico",
     "slug": "apps-services-gestores",
     "status": "down",
-    "uptime": "94.28%",
+    "uptime": "94.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.06%",
-    "uptimeYear": "94.28%",
+    "uptimeMonth": "57.63%",
+    "uptimeYear": "94.23%",
     "time": 67,
     "timeDay": 84,
     "timeWeek": 50,
     "timeMonth": 176,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2025-03-21": 30,
+      "2025-03-21": 219,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
