@@ -1,7 +1,7 @@
 url: https://apps.kobra.red/s1/storage/
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2025-04-02T23:04:36.663Z
+status: down
+code: 502
+responseTime: 72
+lastUpdated: 2025-04-03T06:00:11.393Z
 startTime: 2024-08-09T17:40:04.263Z
 generator: Upptime <https://github.com/upptime/upptime>
