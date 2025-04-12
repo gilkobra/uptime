@@ -1,7 +1,7 @@
 url: https://apps.kobra.red/s1/kobra-saldos/
-status: up
-code: 200
-responseTime: 76
-lastUpdated: 2025-04-11T23:04:38.137Z
+status: down
+code: 502
+responseTime: 89
+lastUpdated: 2025-04-12T06:00:12.829Z
 startTime: 2024-08-09T17:40:04.560Z
 generator: Upptime <https://github.com/upptime/upptime>
