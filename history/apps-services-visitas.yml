@@ -1,7 +1,7 @@
 url: https://apps.kobra.red/s1/visitas/
-status: down
-code: 502
-responseTime: 86
-lastUpdated: 2025-04-12T06:00:08.399Z
+status: up
+code: 200
+responseTime: 50
+lastUpdated: 2025-04-12T06:10:55.249Z
 startTime: 2024-08-09T17:40:03.947Z
 generator: Upptime <https://github.com/upptime/upptime>
