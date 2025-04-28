@@ -1,7 +1,7 @@
 url: https://admin.kobra.red
-status: up
-code: 200
-responseTime: 273
-lastUpdated: 2025-04-28T23:04:41.485Z
+status: down
+code: 500
+responseTime: 180
+lastUpdated: 2025-04-28T23:47:02.774Z
 startTime: 2024-08-09T17:40:02.835Z
 generator: Upptime <https://github.com/upptime/upptime>
