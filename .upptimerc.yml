@@ -28,10 +28,6 @@ sites:
     url: https://apps.kobra.red/s1/kobra-saldos/
     headers:
       - "User-Agent: kobra-uptime"
-  - name: AppsServices (gestores)
-    url: https://apps.kobra.red/s1/gestores/
-    headers:
-      - "User-Agent: kobra-uptime"
   
 assignees: # Users to assign downtime issues (optional)
   - gilkobra
