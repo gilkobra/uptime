@@ -1,7 +1,7 @@
 url: https://apps.kobra.red/s1/lean-services/
-status: down
-code: 500
-responseTime: 302
-lastUpdated: 2025-11-18T11:40:09.637Z
+status: up
+code: 200
+responseTime: 210
+lastUpdated: 2025-11-18T12:22:39.444Z
 startTime: 2024-08-09T17:40:03.363Z
 generator: Upptime <https://github.com/upptime/upptime>
