@@ -78,8 +78,8 @@
     "slug": "apps-services-visitas",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
     "time": 255,
@@ -88,7 +88,6 @@
     "timeMonth": 87,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2026-01-23": 2,
       "2025-11-22": 19,
       "2025-11-20": 18,
       "2025-11-18": 164,
