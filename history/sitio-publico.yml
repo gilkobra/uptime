@@ -1,7 +1,7 @@
 url: https://kobra.red
-status: up
-code: 200
-responseTime: 857
-lastUpdated: 2026-01-26T23:06:17.907Z
+status: down
+code: 409
+responseTime: 15610
+lastUpdated: 2026-01-27T21:07:26.638Z
 startTime: 2024-08-09T17:40:01.750Z
 generator: Upptime <https://github.com/upptime/upptime>
