@@ -12,20 +12,20 @@ sites:
     url: https://admin.kobra.red
     headers:
       - "User-Agent: kobra-uptime"
-  - name: AppsServices (lean-services)
-    url: https://apps.kobra.red/s1/lean-services/
+  - name: AppsServices (lservices)
+    url: https://apps.kobra.red/s1/lservices/
     headers:
       - "User-Agent: kobra-uptime"
-  - name: AppsServices (visitas)
-    url: https://apps.kobra.red/s1/visitas/
-    headers:
-      - "User-Agent: kobra-uptime"
-  - name: AppsServices (storage)
-    url: https://apps.kobra.red/s1/storage/
+  - name: AppsServices (storage20)
+    url: https://apps.kobra.red/s1/storage20/health
     headers:
       - "User-Agent: kobra-uptime"
   - name: AppsServices (kobra-saldos)
     url: https://apps.kobra.red/s1/kobra-saldos/
+    headers:
+      - "User-Agent: kobra-uptime"
+  - name: AppsServices (pyv-services)
+    url: https://apps.kobra.red/s1/pyv-services/health
     headers:
       - "User-Agent: kobra-uptime"
   
